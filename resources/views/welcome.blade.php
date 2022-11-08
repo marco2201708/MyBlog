@@ -2,8 +2,9 @@
 @section('initialPage')
 
 <h1>Title</h1>
-
+<h3>Public area</h3>
 @endsection
+
 @section('content')
     </head>
     <body class="antialiased">
